@@ -5,3 +5,4 @@ iam practicing in github
 
 
 saturday i  practised in the pull concept in 14/11/2026
+i used the git by pulling remote to repo
